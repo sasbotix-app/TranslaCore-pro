@@ -12,7 +12,7 @@
   <a href="https://github.com/sasbotix-app/TranslaCore/releases/download/v1.0/TranslaCore.apk">
     <img src="https://img.shields.io/badge/Download-APK%20Latest%20Version-2196F3?style=for-the-badge&logo=android" alt="Download APK" />
   </a>
-  <img src="https://img.shields.io/badge/Platform-Android_10+-4CAF50?style=for-the-badge&logo=android" alt="Platform" />
+  <img src="https://img.shields.io/badge/Platform-Android_7.0+-4CAF50?style=for-the-badge&logo=android" alt="Platform" />
   <img src="https://img.shields.io/badge/Languages-100%2B_Supported-B388FF?style=for-the-badge&logo=googletranslate" alt="Languages" />
   <img src="https://img.shields.io/badge/Target-Everyone-FFCA28?style=for-the-badge" alt="Target Audience" />
 </p>
