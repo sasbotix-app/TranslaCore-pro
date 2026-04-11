@@ -68,7 +68,7 @@ Get the application directly to your Android device for free.
 2. **Install:** Open the downloaded `TranslaCore.apk`. (You may be prompted to "Allow from this source" in your Android settings).
 3. **Translate:** Open the app, select your files, and enjoy instant translation!
 
-### [📦 Download TranslaCore.apk (Latest Version)](ضع_رابط_تحميل_APK_المباشر_هنا)
+### [📦 Download TranslaCore.apk (Latest Version)](https://github.com/sasbotix-app/TranslaCore/releases/download/v1.0/TranslaCore.apk)
 
 ---
 
