@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/dd4de3aa-dccf-4462-a46a-b27e88f2cee7" alt="TranslaCore Universal Translator Logo" width="200"/>
 </p>
 
-<h1 align="center">🌐 TranslaCore: The Ultimate Universal File & Document Translator</h1>
+<h1 align="center">🌐 TranslaCore Pro: The Ultimate Universal File & Document Translator</h1>
 
 <p align="center">
   <strong>The most powerful, fast, and easy-to-use file translation app for EVERYONE. Translate subtitles, documents, web pages, and data files instantly with zero technical skills required!</strong>
@@ -68,7 +68,7 @@ Get the application directly to your Android device for free.
 2. **Install:** Open the downloaded `TranslaCore.apk`. (You may be prompted to "Allow from this source" in your Android settings).
 3. **Translate:** Open the app, select your files, and enjoy instant translation!
 
-### [📦 Download TranslaCore.apk (Latest Version)](https://github.com/sasbotix-app/TranslaCore/releases/download/v1.0/TranslaCore.apk)
+### [📦 Download TranslaCore Pro v3.5.apk (Latest Version)](https://github.com/sasbotix-app/TranslaCore/releases/download/v3.5/TranslaCore_v3.5.apk)
 
 ---
 
