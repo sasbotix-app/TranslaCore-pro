@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/sasbotix-app/TranslaCore/releases">
+  <a href="https://github.com/sasbotix-app/TranslaCore-Pro/releases">
     <img src="https://img.shields.io/badge/Download-APK%20Latest%20Version-2196F3?style=for-the-badge&logo=android" alt="Download APK" />
   </a>
   <img src="https://img.shields.io/badge/Platform-Android_7.0+-4CAF50?style=for-the-badge&logo=android" alt="Platform" />
@@ -70,7 +70,7 @@ Get the application directly to your Android device for free.
 2. **Install:** Open the downloaded `TranslaCore.apk`. (You may be prompted to "Allow from this source" in your Android settings).
 3. **Translate:** Open the app, select your files, and enjoy instant translation!
 
-### [📦 Download TranslaCore Pro v3.5.apk (Latest Version)](https://github.com/sasbotix-app/TranslaCore/releases/download/v3.5/TranslaCore_v3.5.apk)
+### [📦 Download TranslaCore Pro v3.5.apk (Latest Version)](https://github.com/sasbotix-app/TranslaCore-pro/releases/download/v3.5/TranslaCore_v3.5.apk)
 
 ---
 
