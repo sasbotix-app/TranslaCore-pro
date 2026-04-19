@@ -32,11 +32,13 @@ You don't need to be a tech expert. TranslaCore uses advanced AI to automaticall
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3352abfd-b005-4cd3-95c2-48c18d085c94" alt="TranslaCore Easy Interface" width="22%" />
   &nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/bf2f0ba7-9419-4ab6-915f-4d79665768ce" alt="Universal File Selection" width="22%" />
+  <img src="https://github.com/user-attachments/assets/7ba2cdb3-1d24-4827-b7bd-d5237ce23ad0" alt="Universal File Selection" width="22%" />
   &nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/a01a02e7-f982-4165-a904-fdc4da9c5845" alt="Fast Background Translation" width="22%" />
+  <img src="https://github.com/user-attachments/assets/c052cc36-78c2-4d5e-b8c0-b7956948769d" alt="Fast Background Translation" width="22%" />
   &nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/c56543e0-a9f9-46a3-a97c-50f5d9fe7260" alt="Organized Export Folders" width="22%" />
+  <img src="https://github.com/user-attachments/assets/413d5927-8c11-4730-929c-8657d6d83037" alt="Fast Background Translation" width="22%" />
+  &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/b314ffc5-8222-4099-b96e-2a930edc4ffc" alt="Organized Export Folders" width="22%" />
 </p>
 
 ---
